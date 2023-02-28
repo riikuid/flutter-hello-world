@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.purple,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Hello World'),
+      home: const MyHomePage(title: 'Flutter Demo Hello World !'),
     );
   }
 }
